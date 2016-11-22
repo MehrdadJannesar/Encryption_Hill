@@ -7,3 +7,6 @@ c:\users\janne\documents\visual studio 2015\Projects\Encryption_Hill\Encryption_
 E:\Encryption_Hill\Encryption_Hill\bin\Debug\Encryption_Hill.exe.config
 E:\Encryption_Hill\Encryption_Hill\obj\Debug\Encryption_Hill.exe
 E:\Encryption_Hill\Encryption_Hill\obj\Debug\Encryption_Hill.pdb
+E:\Encryption_Hill\Encryption_Hill\bin\Debug\Encryption_Hill.exe
+E:\Encryption_Hill\Encryption_Hill\bin\Debug\Encryption_Hill.pdb
+E:\Encryption_Hill\Encryption_Hill\obj\Debug\Encryption_Hill.csprojResolveAssemblyReference.cache

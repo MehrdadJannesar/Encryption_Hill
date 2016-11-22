@@ -49,12 +49,14 @@ namespace Encryption_Hill
                 ANS[i, 0] = Sum;
             }
 
-            Console.Write("Your Encryption Hill is:" + "\n");
+            Console.Write("Your Encryption Hill is:" + "\n" + "\n");
             for (i = 0; i < End; i++)
             {
                 char Hill = (char)(((ANS[i, 0]) % 26) + 97);
                 Console.Write(Hill);
             }
+            Console.Write("\n"+"\n" + "\n");
+
         }
     }
 }
